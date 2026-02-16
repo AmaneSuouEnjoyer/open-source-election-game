@@ -4,5 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/open-source-election-game/"
+  base: '/open-source-election-game/open-source-election-game/',
 })
